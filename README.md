@@ -23,7 +23,9 @@ Jeden statický `index.html` bez buildu, data v `localStorage` prohlížeče (ka
 kopii, „obnovit“ v horním pruhu vrátí výchozí stav). Ukázkové fotky v `assets/galerie/` jsou výřezy
 jediné fotky dua. Náhled skládá web ze šablony v `siteHTML()` – vychází z `index.html` hlavního webu.
 
-## Ostrá verze (až bude rozhodnuto)
+## Ostrá verze
+
+Plán převedení do provozu: [PLAN.md](PLAN.md). Zvažované varianty:
 
 Prototyp nemá backend. Pro skutečné ukládání by šlo např.:
 
