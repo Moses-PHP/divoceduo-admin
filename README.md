@@ -25,7 +25,7 @@ jediné fotky dua. Náhled skládá web ze šablony v `siteHTML()` – vychází
 
 ## Ostrá verze
 
-Plán převedení do provozu: [PLAN.md](PLAN.md). Zvažované varianty:
+Plán převedení do provozu je v PLAN.md (jen lokálně, není v repu). Zvažované varianty:
 
 Prototyp nemá backend. Pro skutečné ukládání by šlo např.:
 
